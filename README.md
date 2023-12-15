@@ -3,7 +3,7 @@
  
 **Мои контакты:**
 - 🗨 Telegtam:  [t.me/Uzzbagoyzza](https://t.me/uzzbagoyzza)
-- ✉ emaile: Uzzbagoyzza@yandex.ru
+- ✉ Email: Uzzbagoyzza@yandex.ru
 
 **Языки и инструменты:**
 
