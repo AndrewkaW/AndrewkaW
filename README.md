@@ -7,9 +7,9 @@
 
 **Языки и инструменты:**
 
-[<img src="https://github.com/AndrewkaW/profile/assets/116573128/3585eff3-70dc-4db9-907c-8d654b953a96" width="50"/>](https://developer.android.com/)
-[<img src="https://github.com/AndrewkaW/profile/assets/116573128/beb4374a-0120-4bd0-afb8-1a2420ea0210" width="50"/>](https://kotlinlang.org/)
-[<img src="https://github.com/AndrewkaW/profile/assets/116573128/88062986-682f-4feb-a325-e96450ed4556" width="50"/>](https://www.oracle.com/java/)
+[<img src="https://github.com/AndrewkaW/AndrewkaW/assets/116573128/a05da944-dfc8-4c61-b6b9-d202b7fab5f3" width="50"/>](https://developer.android.com/)
+[<img src="https://github.com/AndrewkaW/AndrewkaW/assets/116573128/4e6176cc-b960-4c17-bedd-1e596c274a17" width="50"/>](https://kotlinlang.org/)
+[<img src="https://github.com/AndrewkaW/AndrewkaW/assets/116573128/c15d789a-b8c4-4c52-a4cb-88971976c5fc" width="50"/>](https://www.oracle.com/java/)
 
 
 **Мой стек:**
